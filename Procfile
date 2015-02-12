@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar web/target/dependency/webapp-runner.jar –port $PORT web/target/*.war
+web: java $JAVA_OPTS -jar TwilioAPI/target/dependency/webapp-runner.jar –port $PORT TwilioAPI/target/*.war
